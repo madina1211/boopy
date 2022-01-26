@@ -237,11 +237,15 @@ h6 {
     position: relative;
 }
 
+.footer {
+    position: relative;
+}
+
 .footer__wrap {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 17.2rem 12rem 8.4rem 14rem;
+    padding: 17.2rem 12rem 8.4rem 12rem;
 }
 
 .footer__inst-img {
